@@ -1,0 +1,15 @@
+body {
+    background-color: #333;
+    color: yellow;
+    padding: 0;
+    margin: 0;
+    
+}
+h1 {
+    text-align: center;
+   
+}
+.abc {
+    font-weight: 400;
+    color: red;
+}
